@@ -17,7 +17,7 @@ Tap/flap | - - | - - | - - | - - | - - | - - | - - | - - | - - | - -
 Fricative | ɸ β | - - | - - | - - | ç ʝ | - - | χ ʁ | - - | - - | ʜ ʢ  
 Lateral fricative | - βˡ | - - | - - | - - | - - | - - | - - | - - | - - | - -  
 Approximate | - - | - - | - ɹ | - - | - - | ʍ w | - - | - - | - - | - -  
-Lateral approximate | - - | - - | - - | - - | - ʎ | - - | - - | - - | - - | - - 
+Lateral approximate | - - | - - | - - | - - | - ʎ | - - | - - | - - | - - | - -
 
 ### Other non-vowel sounds
 
@@ -33,4 +33,25 @@ Close |   | ɨ | ɯ u
 Close-mid |   |   | ɤ
 Mid |   | ə |  
 Open-mid |   |   | ʌ
-Open |  |   | ɑ 
+Open |  |   | ɑ
+
+### Tones
+
+Canish is a heavily tonal language. Much of the nuance for the otherwise limited emotional vocabulary lies in the tones.
+
+* High
+* Low
+* High rising
+* Low rising to mid
+* Low rising to high
+* High falling to mid
+* High falling to low
+* High-low-high
+* High-low-high/mid-low
+* Low-high-low
+
+Thus:
+
+* i aghi m\` -  \[ɨ 'ɑʁɨ m\] (where the \[m\] has "high falling to mid", which I can't figure out how to IPA) is "I walk (maybe)"
+* i aghi m\/ - \[ɨ 'ɑʁɨ m\] (where the \[m\] has "high-low-high") is "I walk (excited)"
+* I aghi m\/\ - \[ɨ 'ɑʁɨ m\] (where the \[m\] has "high-low-high-low") is "I walk (nervous)"
